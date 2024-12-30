@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background Circle -->
+  <circle cx="256" cy="256" r="248" fill="#F3F4F6" stroke="#3B82F6" stroke-width="16"/>
+  
+  <!-- Inner Shield -->
+  <path d="M256 96L384 160V256C384 345.6 329.6 416 256 416C182.4 416 128 345.6 128 256V160L256 96Z" fill="#3B82F6"/>
+  
+  <!-- Mask Symbol -->
+  <path d="M256 176C230.4 176 208 198.4 208 224V256H304V224C304 198.4 281.6 176 256 176ZM256 288C230.4 288 208 310.4 208 336C208 361.6 230.4 384 256 384C281.6 384 304 361.6 304 336C304 310.4 281.6 288 256 288Z" fill="white"/>
+</svg>
