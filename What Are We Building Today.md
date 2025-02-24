@@ -17,8 +17,6 @@ Curious to see how it works? [Click here](https://onepiece-dapp.vercel.app/) to 
 
 ![](https://github.com/0xmetaschool/Learning-Projects/blob/main/assests_for_all/one-piece-dapp/Set%20Up%20the%20Frontend%20Project/interact.webp?raw=true)
 
----
-
 ## 📚 Course Overview
 
 Here’s what we’ll be covering step by step:
@@ -32,8 +30,6 @@ Here’s what we’ll be covering step by step:
 
 🔥 **The most exciting part?** Stick around till Lesson 4 because we’ve got a major surprise waiting for you!
 
----
-
 ## 🎯 Who Should Take This Course?
 
 This course is **perfect** for intermediate Web3 developers looking to level up their Solidity and dApp-building skills. You should have **basic knowledge of**:
@@ -44,8 +40,6 @@ This course is **perfect** for intermediate Web3 developers looking to level up 
 
 👉 Don’t worry if you’re missing a few basics! We’ve got your back—just ask us for help anytime!
 
----
-
 ## ⚡ Prerequisites
 
 To follow along, you’ll need:
@@ -55,15 +49,11 @@ To follow along, you’ll need:
 
 > 💡 **Need help setting up MetaMask?** Check out [this course](https://metaschool.so/courses/understand-and-setup-metamask-account) before continuing!
 
----
-
 ## 🎖️ Proof of Completion
 
 Complete this course, and you’ll earn an exclusive NFT—your **Proof of Completion**! 🎉 This utility token unlocks special perks on Metaschool. Check out how it looks:
 
 ![Completion NFT](https://github.com/0xmetaschool/Learning-Projects/blob/main/assests_for_all/Completion%20NFT.webp?raw=true)
-
----
 
 ## 📌 House Rules
 
@@ -73,8 +63,6 @@ Before we begin, let’s set a few ground rules:
 2. **Join our [Discord](https://discord.gg/vbVMUwXWgc)** and ask questions—we’re here to help!
 3. **Support us on [X](https://bit.ly/airbnb-dapp-fuel-twitter) & [LinkedIn](https://bit.ly/airbnb-dapp-fuel-linkedin)** 💙
 4. **Stay happy, stay positive, and enjoy the ride!** 🚀
-
----
 
 ## 🏁 Let’s Get Started!
 
